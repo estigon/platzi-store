@@ -48,6 +48,8 @@
     "webpack-cli": "^3.3.10"
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",

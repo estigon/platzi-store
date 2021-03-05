@@ -5,7 +5,7 @@ const addToCart = payload => ({
 
 const removeFromCart = payload => ({
   type: 'REMOVE_FROM_CART',
-  payload,
+  payload
 });
 
 const actions = {

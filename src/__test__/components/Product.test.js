@@ -26,6 +26,7 @@ describe('<Product />', () => {
                 />
             </ProviderMock>
         )
+        
 
         /**
          * Porque con esto me sigue dando positivo el test?
