@@ -7,7 +7,7 @@ const Header = props => (
   <div className="Header">
     <h1 className="Header-title">
       <Link to="/">
-        Platzi Store 2
+        Platzi Store 3
       </Link>
     </h1>
     <div className="Header-checkout">
